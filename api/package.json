@@ -16,6 +16,6 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "paul",
+  "author": "paul,Divij",
   "license": "ISC"
 }
